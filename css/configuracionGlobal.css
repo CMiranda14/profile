@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Bebas Neue', cursive;
+
+   /** font-family: 'Source Sans Pro', sans-serif;**/
+    font-size: 10px;
+}
+
+
+:root{
+    /*variables de color*/
+    --azul1:rgba(52, 95, 180, 1);
+    --azul2:rgba(103, 137, 202, 1);
+    --gris1:rgba(49, 49, 49, 1);
+    --gris2:rgba(119, 119, 119, 1);
+    --gris3:rgba(165, 165, 165, 1);
+
+    --fondo:linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+
+    --texto:rgb(5, 115, 189);
+    --text2:black;
+    --parrafo: 1.8rem;
+    --textohover:rgb(0, 217, 255);
+    --texto3:black;
+    --texto3f:verdana;
+
+    /* Vaiables de tamaño de letra*/
+    --h1: 16px;
+    --h2: 3rem;
+    --h3: 2.5rem;
+}
+
+
+/* Estructura de las Secciones */
+
+/*background-section*/
+.background_div{
+    
+    width:100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin:auto;
+   
+}
+
+
+
+p{
+    font-size:2rem;
+    margin:15px;
+}
+
+.section-body{
+
+    max-width:130rem;
+    height:auto;
+    margin:auto;
+}
+

@@ -1,0 +1,46 @@
+/* body */
+.section-movil{
+    max-width:200px;
+    padding:0.1rem;
+}
+
+/*--------------------*/
+.login{
+    background-color:rgba(52, 95, 180, 0.931);
+}
+
+.section_login{
+    margin:auto;
+    display:flex;
+    border-radius:15px;
+    flex-direction:column;
+    padding:5rem 0 5rem 0;
+    max-width:375px;
+}
+
+
+
+
+.titulo1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:40px;
+    color:white;
+    margin:auto;
+  
+
+}
+
+.img_titulo{
+    width: 121,5px;
+    margin:auto;
+    margin-bottom:200px;
+}
+
+.section_img1{
+    width: 375px;
+    margin:auto;
+    
+   
+}
+/*------------------------------------*/
+
