@@ -1,0 +1,84 @@
+.banner{
+    max-width:500px;
+    height:auto;
+}
+
+.span_sec1{
+    font-size:22px;
+    margin-right:261px;
+}
+
+.span_sec2{
+    font-size:19px;
+}
+
+/*-----------------------------------------*/
+
+.section_two{
+    width:500px;
+}
+
+.sec1{ 
+    margin-top:15px;
+    height:140px;
+    width:451px;
+}
+
+.div1 p{
+    padding:57.5px;
+}
+
+.p1{
+    font-size:25px;
+}
+
+.p2{
+    font-size:20px;
+}
+
+.div3 img{
+    width:30px;
+    height:30px;
+}
+
+/*-----------------------------------------*/
+
+.sec2{
+    height:120px;
+    margin:auto;
+    margin-left:16px;
+
+    margin-top:30px;
+}
+
+.formulario_label{
+    font-size:18px;
+}
+
+.formulario_label input{
+    width:200px;
+    font-size: 18px;
+}
+
+.formulario_label span{
+    position:absolute;
+    margin:35px 0px 0px 180px;
+
+}
+
+/*--------------------------------------*/
+
+.formulario_label2{
+    font-size:18px;
+}
+
+.formulario_label2 input{
+    width:426px;
+    font-size: 18px;
+}
+
+.formulario_label2 span{
+    position:absolute;
+    margin:35px 0px 0px 416px;
+   
+}

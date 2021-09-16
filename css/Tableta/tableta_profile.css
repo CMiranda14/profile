@@ -1,0 +1,73 @@
+.banner{
+    max-width:440px;
+    height:auto;
+}
+
+.span_sec1{
+    font-size:22px;
+    margin-right:201px;
+}
+
+.span_sec2{
+    font-size:19px;
+}
+
+/*-----------------------------------------*/
+
+.section_two{
+    width:440px;
+}
+
+.sec1{ 
+    height:120px;
+    width:391px;
+}
+
+.div1 p{
+    padding:47.5px;
+}
+
+.p1{
+    font-size:23px;
+}
+
+.p2{
+    font-size:19px;
+}
+
+.div3 img{
+    width:25px;
+    height:25px;
+}
+
+/*-----------------------------------------*/
+
+.sec2{
+    height:120px;
+    margin:auto;
+    margin-left:16px;
+
+    margin-top:30px;
+}
+
+.formulario_label{
+    font-size:15px;
+}
+
+.formulario_label input{
+    width:170px;
+    font-size: 18px;
+}
+
+
+/*--------------------------------------*/
+
+.formulario_label2{
+    font-size:15px;
+}
+
+.formulario_label2 input{
+    width:361px;
+    font-size: 18px;
+}
+
