@@ -1,43 +1,73 @@
 .banner{
-    max-width:440px;
+    max-width:768px;
     height:auto;
 }
 
+.section_one img{
+    
+    width:18px;
+    height:23.5px;
+
+    margin-left:30px;
+    margin-top:20px;
+
+}
+
+.span_sec2 img{
+    width:18.19px;
+    height:14.77px;
+
+}
+
 .span_sec1{
-    font-size:22px;
-    margin-right:201px;
+    font-size:28px;
+    margin-right:420px;
+
+    margin-left:20px;
 }
 
 .span_sec2{
-    font-size:19px;
+    font-size:23px;
 }
 
 /*-----------------------------------------*/
 
 .section_two{
-    width:440px;
+    width:768px;
+
+    border:rgba(52, 95, 180, 0.897) solid 20px;
+
+    border-radius:30px;
+
+    margin-bottom:30px;
 }
 
 .sec1{ 
-    height:120px;
-    width:391px;
+    height:150px;
+    width:691px;
+
+    border:rgba(52, 95, 180, 0.897) solid 2px;
 }
 
 .div1 p{
-    padding:47.5px;
+    padding:60.5px 100.5px 60.5px 60.5px;
+
+    margin-left: 20px;
 }
 
 .p1{
-    font-size:23px;
+    font-size:35px;
 }
 
 .p2{
-    font-size:19px;
+    font-size:28px;
 }
 
 .div3 img{
-    width:25px;
-    height:25px;
+    width:85px;
+    height:85px;
+
+    margin-left: 140px;
 }
 
 /*-----------------------------------------*/
@@ -51,23 +81,39 @@
 }
 
 .formulario_label{
-    font-size:15px;
+    font-size:25px;
 }
 
 .formulario_label input{
-    width:170px;
-    font-size: 18px;
+    width:320px;
+    font-size: 23px;
 }
 
+.formulario_label span{
+    position:absolute;
+    margin:35px 0px 0px 300px;
+
+    background-color: white;
+}
 
 /*--------------------------------------*/
 
 .formulario_label2{
-    font-size:15px;
+    font-size:20px;
+
+    margin-top: 50px;
 }
 
 .formulario_label2 input{
-    width:361px;
-    font-size: 18px;
+    width:661px;
+    font-size: 25px;
 }
+
+.formulario_label2 span{
+    position:absolute;
+  
+    margin:35px 0px 0px 61px;
+    background-color: white;
+}
+
 
